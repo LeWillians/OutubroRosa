@@ -92,9 +92,33 @@ footer p {
     height: 80vh;
     flex-direction: column-reverse;
   }
-  p {
+  .sessaoPrevencao img {
+    width: 75%;
+  }
+  .sessaoPrevencao p {
     width: 90%;
     font-size: 20px;
     text-align: center;
+  }
+  .sessaoCorrida {
+    height: 80vh;
+    flex-direction: column;
+  }
+  .sessaoCorrida img {
+    width: 75%;
+  }
+  .sessaoCorrida p {
+    width: 90%;
+    font-size: 20px;
+    text-align: center;
+  }
+  .sessaoCuidados {
+    height: 30vh;
+  }
+  .sessaoCuidados img {
+    width: 20%;
+  }
+  footer {
+    height: 30vh;
   }
 }/*# sourceMappingURL=style.css.map */
